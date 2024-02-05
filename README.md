@@ -1,10 +1,10 @@
-### FlavorFusion - Your Gourmet Food Store
+### Foodie - Your Gourmet Food Store
 
-Welcome to FlavorFusion, your premier online gourmet food store where culinary excellence meets convenience. This GitHub repository contains the codebase for our sophisticated platform, designed to bring a world of exquisite ingredients and gourmet delights to your doorstep.
+Welcome to Foodie, your premier online gourmet food store where culinary excellence meets convenience. This GitHub repository contains the codebase for our sophisticated platform, designed to bring a world of exquisite ingredients and gourmet delights to your doorstep.
 
-### About FlavorFusion
+### About Foodie
 
-FlavorFusion is not just an online food store; it's a haven for those who appreciate the finer tastes in life. We curate a selection of premium ingredients, artisanal products, and culinary essentials from around the globe, empowering home chefs to create extraordinary dining experiences.
+Foodie is not just an online food store; it's a haven for those who appreciate the finer tastes in life. We curate a selection of premium ingredients, artisanal products, and culinary essentials from around the globe, empowering home chefs to create extraordinary dining experiences.
 
 ### Key Features
 
@@ -26,14 +26,14 @@ Find inspiration in our curated collection of recipes tailored to our product of
 
 ### Getting Started
 
-Embark on a journey of culinary excellence with FlavorFusion by visiting our website. Create an account to unlock personalized features, track your orders, and receive exclusive promotions.
+Embark on a journey of culinary excellence with Foodie by visiting our website. Create an account to unlock personalized features, track your orders, and receive exclusive promotions.
 
 ### Contributing
 
-We welcome contributions from the community to enhance FlavorFusion's offerings. Whether you're interested in refining website features, adding new gourmet products, or resolving issues, your contributions are valuable. Check out our Contribution Guidelines to get involved.
+We welcome contributions from the community to enhance Foodie's offerings. Whether you're interested in refining website features, adding new gourmet products, or resolving issues, your contributions are valuable. Check out our Contribution Guidelines to get involved.
 
 ### Feedback
 
-Your feedback is essential in making FlavorFusion the go-to destination for gourmet enthusiasts. If you have suggestions, encounter issues, or want to share your experience, please open an issue on GitHub.
+Your feedback is essential in making Foodie the go-to destination for gourmet enthusiasts. If you have suggestions, encounter issues, or want to share your experience, please open an issue on GitHub.
 
-`Indulge in the world of gourmet flavors with FlavorFusion! 🌐🍴`
+`Indulge in the world of gourmet flavors with Foodie! 🌐🍴`
