@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 export default function Hero() {
   return (
     <main className='bg-[#495E57] h-[500px] px-64 flex items-center justify-between'>
@@ -10,12 +12,15 @@ export default function Hero() {
           Welcome to Foodie - Your Culinary Haven! Discover a symphony of
           flavors at your fingertips. From gourmet indulgences to daily
           essentials, we curate the finest selection to satisfy your cravings.
-          Elevate your dining experience with Foodie – where passion meets
+          Elevate your dining experience with Foodie - where passion meets
           palate. Order now and let the feast begin!
         </p>
-        <button className='w-[250px] h-[50px] rounded-lg bg-yellow-500 text-xl'>
+        <Link
+          to='/reservations'
+          className='w-[250px] h-[50px] rounded-lg bg-yellow-500 text-xl flex justify-center items-center'
+        >
           Reserve a table
-        </button>
+        </Link>
       </aside>
       <figure>
         <img

@@ -1,7 +1,11 @@
+import BookingForm from "./BookingForm"
+
 export default function BookingPage() {
   return (
     <>
-      <h1>Hola</h1>
+      <section className='flex justify-center'>
+        <BookingForm />
+      </section>
     </>
   )
 }

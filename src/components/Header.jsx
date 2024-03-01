@@ -1,4 +1,5 @@
 import { Link, Outlet } from "react-router-dom"
+import About from "./About"
 
 export default function Header() {
   return (
@@ -29,6 +30,7 @@ export default function Header() {
         </nav>
       </header>
       <Outlet />
+      <About />
     </>
   )
 }
